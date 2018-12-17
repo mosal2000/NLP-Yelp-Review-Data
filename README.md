@@ -1,5 +1,7 @@
 # Natural Language Processing using the Yelp Review Data
 
+![city](images/hongkong.jpg)
+
 This NLP project  will attempt to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews. 
 
 We are using the [Yelp Review Data Set from Kaggle](https://www.kaggle.com/c/yelp-recsys-2013).
